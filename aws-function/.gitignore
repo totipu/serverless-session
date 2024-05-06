@@ -10,7 +10,6 @@
 .idea/**/tasks.xml
 .idea/dictionaries
 .idea
-.vscode
 
 # Sensitive or high-churn files:
 .idea/**/dataSources/
@@ -424,5 +423,3 @@ tests/integration/testdata/sync/code/before/dotnet_function/src/HelloWorld/obj/
 
 # End of https://www.gitignore.io/api/osx,node,macos,linux,python,windows,pycharm,intellij,sublimetext,visualstudiocode
 
-# Installer build folder
-.build
