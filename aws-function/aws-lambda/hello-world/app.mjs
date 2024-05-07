@@ -19,8 +19,6 @@ export const lambdaHandler = async (event, context) => {
 
         // return the message in the http response
         console.log(message);
-        console.log(event);
-        console.log(context);
 
         return {
             'statusCode': 200,
